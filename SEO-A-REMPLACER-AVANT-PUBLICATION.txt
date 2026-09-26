@@ -1,0 +1,14 @@
+IMPORTANT AVANT PUBLICATION
+
+Le nom de domaine réel n'était pas fourni dans le dossier.
+Les URL SEO utilisent donc encore :
+https://www.votredomaine.fr
+
+Dès que le domaine définitif est connu, remplacer cette valeur dans :
+- index.html
+- postulation-cour-appel-paris.html
+- contact-avocat-postulant-paris.html
+- robots.txt
+- sitemap.xml
+
+Le reste du SEO a été mis en cohérence avec les textes actuels du site.
