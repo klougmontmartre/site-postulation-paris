@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.votredomaine.fr/sitemap.xml
+Sitemap: https://nbf-avocat.fr/sitemap.xml
