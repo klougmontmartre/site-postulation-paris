@@ -162,3 +162,8 @@ h1{font-size:clamp(2.5rem, 5.5vw, 5rem)} h2{font-size:clamp(1.95rem, 3vw, 2.8rem
   }
 }
 
+
+/* Mentions légales : règles limitées à la nouvelle page. */
+.legal-page .legal-content{max-width:880px;overflow-wrap:anywhere}
+.legal-page .legal-section + .legal-section{margin-top:40px}
+.legal-page a:focus-visible{outline:2px solid var(--navy);outline-offset:3px}
